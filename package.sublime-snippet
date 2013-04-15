@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[package
+{
+	import flash.display.Sprite;
+	
+	public class ${1:className} extends Sprite
+	{
+		${2:}
+	}
+}
+]]></content>
+	<tabTrigger>zpackage</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>
