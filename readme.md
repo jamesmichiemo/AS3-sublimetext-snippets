@@ -15,7 +15,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 
 ### Z-Snippet Command List ###
 
-* [zpackage](https://developer.mozilla.org/en-US/docs/AS3/@font-face)
+* [zpackage](http://www.adobe.com/devnet/actionscript/learning/as3-fundamentals/packages.html)
 
 
 ## License
