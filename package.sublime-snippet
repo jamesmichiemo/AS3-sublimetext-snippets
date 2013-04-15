@@ -7,7 +7,7 @@
 	{
 		public function ${2:functionName}()
 		{
-		${2:}
+		${3:}
 		}
 	}
 }
