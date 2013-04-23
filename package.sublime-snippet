@@ -2,7 +2,7 @@
 	<content><![CDATA[package
 {
 	import flash.display.Sprite;
-	
+
 	public class ${1:Main} extends Sprite	
 	{
 		public function ${2:functionName}()
