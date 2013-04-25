@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addEventListener(${1:EventClass}.${2:EVENT_CONST}, ${3:functionToRun});
+]]></content>
+	<tabTrigger>zaddEventListener</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>
