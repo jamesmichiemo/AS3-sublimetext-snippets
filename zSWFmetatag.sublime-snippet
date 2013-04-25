@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[[SWF(height="#{1:800}", width="#{2:600}", backgroundColor="#{3:#f2f2f2}", frameRate="#{4:60}")]
+	<content><![CDATA[[SWF(height="${1:800}", width="${2:600}", backgroundColor="${3:#f2f2f2}", frameRate="${4:60}")]
 ]]></content>
 	<tabTrigger>zSWFmetatag</tabTrigger>
 	<scope>source.actionscript</scope>
